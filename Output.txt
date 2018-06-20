@@ -1,0 +1,261 @@
+DATASET: data_1_1.csv
+Ordinary Linear Regression:
+The regression equation is y = 0.880809x + -0.269527
+_________________
+
+Minimum X: -4.8661 Max X: 4.91906
+
+
+________________________
+Over the interval: (-5, -3)
+The regression equation is y = 0.699475x + -1.69464
+n:= Number of data points  in this interval: 13
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 26.5312
+Variance of Y_i's: 26.6589
+________________________
+Over the interval: (-3, -1)
+The regression equation is y = 0.714478x + -0.583984
+n:= Number of data points  in this interval: 25
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 12.8346
+Variance of Y_i's: 13.0546
+________________________
+Over the interval: (-1, 1)
+The regression equation is y = 0.593155x + -0.149872
+n:= Number of data points  in this interval: 19
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 3.75564
+Variance of Y_i's: 3.85273
+________________________
+Over the interval: (1, 3)
+The regression equation is y = 1.05126x + 0.710194
+n:= Number of data points  in this interval: 26
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 20.4929
+Variance of Y_i's: 20.8737
+________________________
+Over the interval: (3, 5)
+The regression equation is y = 2.21377x + -7.16188
+n:= Number of data points  in this interval: 17
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 83.5742
+Variance of Y_i's: 84.7563
+__________________________________________
+ADJUST WEIGHTS
+___________________________
+
+WEIGHTED REGRESSION Line:
+The regression equation is y = 1.02416x + -0.0100442
+End of analysis for this dataset!
+
+
+DATASET: data_1_2.csv
+Ordinary Linear Regression:
+The regression equation is y = 1.2856x + -0.395853
+_________________
+
+Minimum X: -25.9233 Max X: 19.7134
+
+
+________________________
+Over the interval: (-26, -21)
+The regression equation is y = -9.89927x + -272.727
+n:= Number of data points  in this interval: 3
+10000
+________________________
+Over the interval: (-21, -16)
+The regression equation is y = -0.505491x + -17.582
+n:= Number of data points  in this interval: 3
+10000
+________________________
+Over the interval: (-16, -11)
+The regression equation is y = 4.06434x + 22.2081
+n:= Number of data points  in this interval: 6
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 192.851
+Variance of Y_i's: 224.951
+________________________
+Over the interval: (-11, -6)
+The regression equation is y = 1.09385x + 8.34426
+n:= Number of data points  in this interval: 10
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 752.247
+Variance of Y_i's: 754.695
+________________________
+Over the interval: (-6, -1)
+The regression equation is y = 2.28533x + 1.36274
+n:= Number of data points  in this interval: 23
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 22.5289
+Variance of Y_i's: 31.8514
+________________________
+Over the interval: (-1, 4)
+The regression equation is y = 0.824468x + -0.0454066
+n:= Number of data points  in this interval: 17
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 9.73258
+Variance of Y_i's: 11.281
+________________________
+Over the interval: (4, 9)
+The regression equation is y = -0.883204x + 11.534
+n:= Number of data points  in this interval: 18
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 185.482
+Variance of Y_i's: 186.606
+________________________
+Over the interval: (9, 14)
+The regression equation is y = -1.63699x + 36.4186
+n:= Number of data points  in this interval: 12
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 54.4137
+Variance of Y_i's: 60.7017
+________________________
+Over the interval: (14, 19)
+The regression equation is y = -8.58182x + 162.396
+n:= Number of data points  in this interval: 7
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 358.282
+Variance of Y_i's: 508.816
+________________________
+Over the interval: (19, 24)
+The regression equation is y = 0.0150602x + 7.85542
+n:= Number of data points  in this interval: 1
+10000
+__________________________________________
+ADJUST WEIGHTS
+___________________________
+
+WEIGHTED REGRESSION Line:
+The regression equation is y = 1.52277x + -1.03542
+End of analysis for this dataset!
+
+
+DATASET: data_1_3.csv
+Ordinary Linear Regression:
+The regression equation is y = -0.53785x + 4.17516
+_________________
+
+Minimum X: -24.4231 Max X: 19.7157
+
+
+________________________
+Over the interval: (-25, -14)
+The regression equation is y = -2.04141x + -18.809
+n:= Number of data points  in this interval: 5
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 239.768
+Variance of Y_i's: 313.194
+________________________
+Over the interval: (-14, -3)
+The regression equation is y = -0.781212x + 0.396911
+n:= Number of data points  in this interval: 17
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 75.8956
+Variance of Y_i's: 83.9792
+________________________
+Over the interval: (-3, 8)
+The regression equation is y = -0.551445x + -0.473119
+n:= Number of data points  in this interval: 15
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 11.5456
+Variance of Y_i's: 14.1953
+________________________
+Over the interval: (8, 19)
+The regression equation is y = -1.11527x + 16.298
+n:= Number of data points  in this interval: 12
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 949.911
+Variance of Y_i's: 961.556
+________________________
+Over the interval: (19, 30)
+The regression equation is y = -0.08829x + 5.71004
+n:= Number of data points  in this interval: 1
+10000
+__________________________________________
+ADJUST WEIGHTS
+___________________________
+
+WEIGHTED REGRESSION Line:
+The regression equation is y = -0.759829x + 0.283496
+End of analysis for this dataset!
+
+
+DATASET: data_1_4.csv
+Ordinary Linear Regression:
+The regression equation is y = 0.633376x + 1.14813
+_________________
+
+Minimum X: 0 Max X: 4.82285
+
+
+________________________
+Over the interval: (0, 1)
+The regression equation is y = 1.38984x + 0.274405
+n:= Number of data points  in this interval: 12
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 2.56758
+Variance of Y_i's: 2.71406
+________________________
+Over the interval: (1, 2)
+The regression equation is y = 1.41924x + -0.971623
+n:= Number of data points  in this interval: 12
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 2.53255
+Variance of Y_i's: 2.74908
+________________________
+Over the interval: (2, 3)
+The regression equation is y = 7.24046x + -14.8356
+n:= Number of data points  in this interval: 11
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 23.0265
+Variance of Y_i's: 25.4344
+________________________
+Over the interval: (3, 4)
+The regression equation is y = 3.59505x + -5.66071
+n:= Number of data points  in this interval: 8
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 30.9812
+Variance of Y_i's: 32.1643
+________________________
+Over the interval: (4, 5)
+The regression equation is y = 24.7165x + -113.92
+n:= Number of data points  in this interval: 7
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 52.7735
+Variance of Y_i's: 71.3126
+__________________________________________
+ADJUST WEIGHTS
+___________________________
+
+WEIGHTED REGRESSION Line:
+The regression equation is y = 0.979605x + 0.232898
+End of analysis for this dataset!
+
+
+DATASET: data_1_5.csv
+Ordinary Linear Regression:
+The regression equation is y = -1.33307x + -0.241305
+_________________
+
+Minimum X: -16.74 Max X: 5.86122
+
+
+________________________
+Over the interval: (-17, -12)
+The regression equation is y = 0.0642165x + 33.2071
+n:= Number of data points  in this interval: 6
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 316.297
+Variance of Y_i's: 316.31
+________________________
+Over the interval: (-12, -7)
+The regression equation is y = 5.15236x + 53.5543
+n:= Number of data points  in this interval: 11
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 61.0545
+Variance of Y_i's: 106.526
+________________________
+Over the interval: (-7, -2)
+The regression equation is y = -2.94086x + -9.60844
+n:= Number of data points  in this interval: 19
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 25.8352
+Variance of Y_i's: 41.3352
+________________________
+Over the interval: (-2, 3)
+The regression equation is y = -0.838158x + 0.502045
+n:= Number of data points  in this interval: 11
+SUM_ {i = 1}^n (y_i - a*x_i - b)^2/n = 1.99001
+Variance of Y_i's: 2.78639
+________________________
+Over the interval: (3, 8)
+The regression equation is y = 5.64951x + -23.9819
+n:= Number of data points  in this interval: 3
+10000
+__________________________________________
+ADJUST WEIGHTS
+___________________________
+
+WEIGHTED REGRESSION Line:
+The regression equation is y = -0.933978x + 0.415626
+End of analysis for this dataset!
+
+
+Press <RETURN> to close this window...
